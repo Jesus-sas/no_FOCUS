@@ -70,12 +70,14 @@
     display: flex;
     justify-content: center;
     gap: 10px;
-    padding-top: 20px;
+    padding-top: 13px;
 }
 .navigation button {
     border: none;
     background-color: transparent;
     padding: 0px 13px;
+    
+
     color: #FF0070;
 }
 .navigation button:hover {
