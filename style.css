@@ -121,3 +121,88 @@ h1{
     color: #000028;
     margin: 0;
 }
+
+.sec-1 {
+    padding: 0 12px;
+    width: 1024px;
+    height: 600px;
+}
+.title-1 {
+    width: 1024px;
+    height: 508px;
+    position: absolute;
+    margin-left: 8px;
+    top: 828px;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 130%;
+    color: #ff0070;
+}
+.block-1 {
+    width: 984px;
+    height: 508px;
+    position: relative;
+    top: 10px;
+}
+.first-txt {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 130%;
+    width: 648px;
+    height: 244px;
+    position: relative;
+    left: 340px;
+    top: 57px;
+}
+.many {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 130%;
+    color: #000028;
+    background: #ff0070;
+    margin-bottom: 8px;
+}
+.first-txt p {
+    width: 648px;
+    height: 211px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    color: #f1b2ce;
+    margin-top: 3px;
+}
+.second-txt {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 130%;
+    width: 648px;
+    height: 244px;
+    position: relative;
+    left: 340px;
+    top: 70px;
+}
+.second-txt p {
+    width: 648px;
+    height: 211px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    color: #f1b2ce; 
+    margin-top: 8px;
+}
+.dof {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 130%;
+    color: #000028;
+    background: #ff0070;
+    margin-top: 8px;
+    margin-bottom: 7px;
+}
