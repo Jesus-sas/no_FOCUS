@@ -1,4 +1,4 @@
-:hover {
+:root {
     --font-family: "IBM Plex Mono", sans-serif;
 }
 @font-face{
@@ -28,7 +28,7 @@ body {
     max-width: max-content;
     position: relative;
 }
-.header .REC {
+ .header .REC {
     display: block;
     font-family: var(--font-family);
     font-weight: 400;
@@ -51,9 +51,10 @@ body {
     border-radius: 100%;
     background-color: #ff0070;
     box-shadow: 0 0 4px 2px #ff0070;
-    content: '';
+    content: ''
 }
-.header .corners-1 {
+
+  .header .corners-1  {
     border-bottom: 1px solid #ff0070;
     border-left: 1px solid #ff0070;
     width: 25px;
@@ -62,7 +63,7 @@ body {
     top: 723px;
     left: 20px;
 }
-.header .corners-2 {
+ .header .corners-2 {
     border-right: 1px solid #ff0070;
     border-top: 1px solid #ff0070;
     width: 25px;
