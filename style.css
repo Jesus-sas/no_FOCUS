@@ -243,7 +243,7 @@ h1{
     flex-grow: 0;
     -index: 1;
 }
-.galery{
+.galery {
     display: grid;
     grid-template-areas: 
     'img1 img1 img2'
@@ -252,7 +252,7 @@ h1{
     gap: 20px;
     margin-top: 43px;
 }
-.image{
+.image {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -266,7 +266,7 @@ h1{
 .img-3 {
     grid-area: img3;
 }
-.cart4 {
+.img-4 {
     grid-area: img4;
 }
 .img-5 {
